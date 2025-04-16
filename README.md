@@ -10,3 +10,7 @@ Task:
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task.
 
 Create the metrics according to the metric list. Create a dashboard according to the mock-up provided by stakeholders. Create relevant insights
+
+
+## The data set is used :
+https://github.com/013swati/Revenue-Insights-of-five-star-Hotel/tree/main/Data%20set
